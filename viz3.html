@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300, "strokeOpacity": 0}, "axis": {"labelFontSize": 13, "titleFontSize": 13}, "axisX": {"labelOffset": 0, "titleAlign": "left", "titleAngle": 0, "titleFontWeight": 200, "titleX": -27, "titleY": 40}, "axisY": {"labelOffset": 0, "titleAlign": "left", "titleAngle": 0, "titleY": -8}, "mark": {"fontSize": 13}}, "layer": [{"mark": "line", "encoding": {"color": {"type": "nominal", "field": "Demographic", "legend": null, "scale": {"domain": ["Male", "Female"], "range": ["#30B2EB", "#EBCD17", "#EB46AF", "#EB6930", "#F9ED32", "#808285"]}}, "text": {"type": "nominal", "field": "Demographic"}, "x": {"type": "temporal", "axis": {"grid": false, "labelAlign": "left", "labelExpr": "[timeFormat(datum.value, '%b'), timeFormat(datum.value, '%m') == '01' ? timeFormat(datum.value, '%Y') : '']"}, "field": "Month"}, "y": {"type": "quantitative", "axis": {"domain": true, "grid": true, "titleAlign": "left"}, "field": "Sentiment"}}, "title": {"text": ["Male consumers are less worried about spending", "than females"], "subtitle": ["Survey of Consumers from the University of Michigan", "Consumer Sentiment Index", " "], "color": "#4d4d4d", "subtitleColor": "#4d4d4d", "subtitleFont": "Roboto,sans-serif", "subtitleFontSize": 15, "anchor": "start", "font": "Roboto,sans-serif", "fontSize": 20}}, {"mark": "point", "encoding": {"color": {"type": "nominal", "field": "Demographic", "legend": null, "scale": {"domain": ["Male", "Female"], "range": ["#30B2EB", "#EBCD17", "#EB46AF", "#EB6930", "#F9ED32", "#808285"]}}, "opacity": {"condition": {"value": 1.0, "selection": "selector060"}, "value": 0.0}, "text": {"type": "nominal", "field": "Demographic"}, "tooltip": [{"type": "nominal", "field": "Demographic"}, {"type": "quantitative", "field": "Sentiment"}, {"type": "temporal", "field": "Month"}], "x": {"type": "temporal", "axis": {"grid": false, "labelAlign": "left", "labelExpr": "[timeFormat(datum.value, '%b'), timeFormat(datum.value, '%m') == '01' ? timeFormat(datum.value, '%Y') : '']"}, "field": "Month"}, "y": {"type": "quantitative", "axis": {"domain": true, "grid": true, "titleAlign": "left"}, "field": "Sentiment"}}, "selection": {"selector060": {"type": "single", "on": "mouseover", "nearest": true, "fields": ["Month", "Sentiment", "Sentiment"], "empty": "none", "clear": "mouseout"}}, "title": {"text": ["Male consumers are less worried about spending", "than females"], "subtitle": ["Survey of Consumers from the University of Michigan", "Consumer Sentiment Index", " "], "color": "#4d4d4d", "subtitleColor": "#4d4d4d", "subtitleFont": "Roboto,sans-serif", "subtitleFontSize": 15, "anchor": "start", "font": "Roboto,sans-serif", "fontSize": 20}}, {"mark": {"type": "text", "dy": -5}, "encoding": {"color": {"type": "nominal", "field": "Demographic", "legend": null, "scale": {"domain": ["Male", "Female"], "range": ["#30B2EB", "#EBCD17", "#EB46AF", "#EB6930", "#F9ED32", "#808285"]}}, "text": {"type": "nominal", "field": "Demographic"}, "x": {"type": "temporal", "aggregate": "mean", "field": "Month", "title": "Source: U of Michigan"}, "y": {"type": "quantitative", "aggregate": "mean", "field": "Sentiment", "title": "Sentiment Index"}}, "title": {"text": ["Male consumers are less worried about spending", "than females"], "subtitle": ["Survey of Consumers from the University of Michigan", "Consumer Sentiment Index", " "], "color": "#4d4d4d", "subtitleColor": "#4d4d4d", "subtitleFont": "Roboto,sans-serif", "subtitleFontSize": 15, "anchor": "start", "font": "Roboto,sans-serif", "fontSize": 20}}], "data": {"name": "data-4c5b6fada61a0490553773221f706605"}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-4c5b6fada61a0490553773221f706605": [{"Month": "2019-11-01T00:00:00", "Demographic": "Female", "Sentiment": 88.4}, {"Month": "2019-12-01T00:00:00", "Demographic": "Female", "Sentiment": 87.8}, {"Month": "2020-01-01T00:00:00", "Demographic": "Female", "Sentiment": 94.3}, {"Month": "2020-02-01T00:00:00", "Demographic": "Female", "Sentiment": 92.7}, {"Month": "2020-03-01T00:00:00", "Demographic": "Female", "Sentiment": 80.1}, {"Month": "2020-04-01T00:00:00", "Demographic": "Female", "Sentiment": 63.5}, {"Month": "2019-11-01T00:00:00", "Demographic": "Male", "Sentiment": 103.5}, {"Month": "2019-12-01T00:00:00", "Demographic": "Male", "Sentiment": 107.9}, {"Month": "2020-01-01T00:00:00", "Demographic": "Male", "Sentiment": 104.2}, {"Month": "2020-02-01T00:00:00", "Demographic": "Male", "Sentiment": 107.4}, {"Month": "2020-03-01T00:00:00", "Demographic": "Male", "Sentiment": 96.9}, {"Month": "2020-04-01T00:00:00", "Demographic": "Male", "Sentiment": 78.4}]}};
+      var embedOpt = {"actions": false, "mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
