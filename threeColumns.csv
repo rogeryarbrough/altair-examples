@@ -1,0 +1,1556 @@
+,Lender,LoanAmount,Loans
+0,"	Farm Credit of Western Oklahoma, ACA",24385.0,1
+1,1st Bank Yuma,82400.0,3
+2,1st Bank in Hominy,23175.0,1
+3,1st Community FCU,23201.38888888889,72
+4,1st Financial Bank USA,14804.0,5
+5,1st Source Bank,34325.0,4
+6,1st Summit Bank,20832.0,1
+7,A N E C A FCU,23786.6,5
+8,A+ FCU,22405.936639118456,363
+9,ABNB FCU,3272.0,1
+10,ANB Bank,1252.0,1
+11,AVB Bank,55400.0,1
+12,"Academy Bank, National Association",54066.42857142857,7
+13,AccessBank Texas,38367.096774193546,465
+14,Accion,19079.272551020407,196
+15,Adams Bank & Trust,60750.0,4
+16,"Affiliated Bank, National Association",32732.15673469388,1225
+17,Affinity FCU,11628.5,6
+18,Affinity Plus FCU,6808.75,1
+19,AgTexas Farm Credit Services,28794.583333333332,36
+20,Agrow Credit Corporation,39841.02888888888,9
+21,AimBank,42139.197771587744,359
+22,Air Force FCU,13907.0,23
+23,Alaska USA FCU,45733.333333333336,3
+24,"Alerus Financial, National Association",9950.0,2
+25,Allegacy FCU,1461.05,1
+26,Allegiance Bank,42546.2928649635,4932
+27,Alliance Bank,37394.37469565217,345
+28,Alliance Bank Central Texas,27781.95716494845,194
+29,Allied FCU,14633.375,8
+30,Allied First Bank,59505.0,1
+31,Ally Bank,94801.70444444445,9
+32,Alpine Bank,35671.42857142857,7
+33,Altra FCU,22023.967835051546,97
+34,Alva State Bank & Trust Company,5300.0,1
+35,Amarillo National Bank,32766.718099861304,2884
+36,"Amerant Bank, National Association",25871.891544117647,544
+37,AmeriState Bank,29988.486666666664,42
+38,America First FCU,9366.666666666666,3
+39,America's Christian CU,23266.666666666668,36
+40,"American AgCredit, ACA",114845.5,2
+41,American Bank & Trust,4269.5,2
+42,American Bank Center,21700.0,1
+43,American Bank and Trust Company,32339.666666666668,3
+44,American Bank of Commerce,42886.93972179289,647
+45,American Bank of Missouri,110300.0,1
+46,"American Bank, National Association",44961.65836615609,1371
+47,American Business Bank,60000.0,1
+48,American Community Bank & Trust,91300.0,1
+49,American Express National Bank,39206.70116847827,368
+50,American Federal Bank,20832.0,1
+51,American First CU,16370.0,1
+52,American First National Bank,34734.96581196581,234
+53,American Lending Center,19172.996153846154,13
+54,American Momentum Bank,47496.95326364693,861
+55,American National Bank,71866.28571428571,7
+56,American National Bank & Trust,39968.9226519337,362
+57,American National Bank and Trust Company,26800.0,1
+58,American Pride Bank,53468.75,4
+59,American State Bank,32238.910678466025,339
+60,American State Bank & Trust Company,12881.0,1
+61,Ameris Bank,39006.282051282054,39
+62,Amistad Bank,33691.02785714286,42
+63,Amplify CU,25030.65931818182,264
+64,"Amur Equipment Finance, Inc.",13129.752083333335,24
+65,Anahuac National Bank,38300.07209876546,81
+66,Anchor D Bank,21506.3125,16
+67,Anchor State Bank,15985.0,1
+68,Andover State Bank,75550.0,2
+69,Andrew Johnson Bank,19178.5,2
+70,Anstaff Bank,29052.88,3
+71,Anthem Bank & Trust,26728.742222222223,18
+72,Aquesta Bank,56600.0,1
+73,Arbor Bank,133700.0,1
+74,Arizona FCU,20800.0,1
+75,Arkansas Capital Corporation,28419.134444444444,9
+76,Arkansas FCU,10832.0,2
+77,Armor Bank,27639.71,2
+78,Armstrong Bank,29893.049230769233,13
+79,Arvest Bank,54549.16095890411,146
+80,Ashton State Bank,6600.0,1
+81,Aspire Bank,11700.0,1
+82,Assemblies of God CU,19836.322666666667,15
+83,"Associated Bank, National Association",28277.333333333332,3
+84,Associated CU of Texas,20466.716981132075,53
+85,Astra Bank,14025.0,1
+86,Atascosa Bank,16218.75,2
+87,"Atlantic Capital Bank, National Association",60589.53846153846,13
+88,Atlantic Union Bank,58588.0,4
+89,"Austin Bank, Texas National Association",32137.381135684398,1673
+90,Austin County State Bank,31583.386075949365,316
+91,Avidia Bank,32000.0,2
+92,"Axiom Bank, National Association",82088.8675,4
+93,Axos Bank,25161.995999999996,25
+94,BBVA USA,38192.926635958356,10095
+95,BMO Harris Bank National Association,42502.40291262136,103
+96,BNC National Bank,10100.0,1
+97,BOC Bank,37666.26760683762,117
+98,"BOKF, National Association",40364.380355965724,1517
+99,BOM Bank,51472.27722772277,101
+100,"BSD Capital, LLC dba Lendistry",49042.437922705314,207
+101,BTC Bank,7968.535,2
+102,"BTH Texas, National Association",54025.64015151515,264
+103,Baker Boyer National Bank,11550.0,1
+104,"Banc of California, National Association",9224.835,2
+105,BancFirst,47915.22597189695,427
+106,Banco Popular de Puerto Rico,10450.0,2
+107,BancorpSouth Bank,39001.4657603254,3196
+108,Bandera Bank,28166.867021276597,47
+109,Bangor Savings Bank,800.0,1
+110,Bank & Trust Company,45807.75,4
+111,Bank 7,41176.92307692308,26
+112,Bank Five Nine,69476.4705882353,34
+113,Bank Forward,54389.5,2
+114,Bank Iowa,72100.0,4
+115,Bank Leumi USA,143500.0,1
+116,Bank Midwest,20450.0,2
+117,Bank OZK,35050.26530612245,441
+118,"Bank of America, National Association",27985.79995240032,24580
+119,Bank of Ann Arbor,76791.0,3
+120,Bank of Bartlett,19635.79411764706,17
+121,Bank of Belleville,52166.666666666664,3
+122,Bank of Blue Valley,17450.0,2
+123,"Bank of Brenham, N.A.",31442.747435897436,117
+124,Bank of Colorado,36748.64705882353,17
+125,Bank of Columbia,110000.0,1
+126,Bank of Commerce,11200.0,2
+127,"Bank of DeSoto, National Association",35192.6724137931,232
+128,Bank of Franklin County,45600.0,1
+129,Bank of George,22020.0,5
+130,Bank of Grand Lake,7705.5,2
+131,Bank of Hawaii,34264.5,2
+132,Bank of Hays,50475.0,4
+133,"Bank of Hillsboro, National Association",9537.0,1
+134,Bank of Holly Springs,53800.0,1
+135,Bank of Hope,41679.47701923076,208
+136,"Bank of Houston, National Association",45258.287631578954,152
+137,Bank of Hydro,22714.285714285714,7
+138,Bank of Idaho,66655.33333333333,3
+139,Bank of Jackson Hole,42250.0,2
+140,Bank of Labor,17132.0,1
+141,Bank of Little Rock,8950.0,2
+142,Bank of Madison,98052.95,1
+143,Bank of Monticello,1756.05,1
+144,Bank of New England,4553.72,1
+145,Bank of Oak Ridge,5455.0,1
+146,Bank of Ocean City,30693.5,2
+147,Bank of Pensacola,90266.46,1
+148,Bank of Pontiac,5066.666666666667,3
+149,Bank of South Texas,51624.137931034486,29
+150,"Bank of Southern California, National Association",73460.0,5
+151,Bank of Springfield,42625.0,4
+152,Bank of St. Francisville,14825.666666666666,3
+153,Bank of Stockton,34200.0,2
+154,Bank of Sunset & Trust Company,63200.0,1
+155,Bank of Utica,43445.0,1
+156,Bank of Western Oklahoma,38194.0475,4
+157,"Bank of Whittier, National Association",10896.153846153846,39
+158,Bank of the Flint Hills,2870.0,1
+159,Bank of the James,24600.0,2
+160,Bank of the Panhandle,40977.77777777778,9
+161,Bank of the Sierra,15172.0,1
+162,Bank of the Southwest,13980.0,5
+163,Bank of the West,46856.527009685204,826
+164,Bank3,73788.44444444444,9
+165,BankFirst,40740.0,1
+166,BankFirst Financial Services,84300.0,1
+167,BankFlorida,50660.100000000006,6
+168,BankPlus,28720.0,5
+169,"BankUnited, National Association",50841.666666666664,36
+170,BankVista,16547.36842105263,19
+171,Bankers Trust Company,103400.0,1
+172,Bankers' Bank of Kansas,7062.5,1
+173,Bankwell Bank,32326.65,4
+174,Banner Bank,29700.0,1
+175,Banner Capital Bank,32291.5,3
+176,Banterra Bank,112665.0,2
+177,Baraboo State Bank,32740.0,1
+178,Barksdale FCU,18180.0,15
+179,"Barrington Bank & Trust Company, National Association",114300.0,1
+180,Baxter CU,8045.55,2
+181,Bayer Heritage FCU,6575.21,1
+182,Beach Community Bank,9627.0,1
+183,Beartooth Bank,34800.0,2
+184,Bell Bank,12500.0,4
+185,Benchmark Bank,32665.529014598556,274
+186,Benworth Capital,25327.20805194805,77
+187,Berkshire Bank,68613.15823529412,17
+188,Bethpage FCU,10467.3,1
+189,"Beverly Bank & Trust Company, National Association",27847.0,2
+190,"Big Bend Banks, National Association",22787.14285714286,28
+191,Black Hills FCU,24807.0,1
+192,Blue Foundry Bank,14066.25,1
+193,"Blue Ridge Bank, National Association",42723.578125,64
+194,Blue Sky Bank,53516.666666666664,6
+195,Bodcaw Bank,11845.0,1
+196,Boeing Empl CU,14375.0,2
+197,Bogota Savings Bank,62530.0,1
+198,Boonville Federal Savings Bank,6216.45,1
+199,Border FCU,11844.294871794871,39
+200,Boston Private Bank & Trust Company,83450.0,2
+201,Branson Bank,10058.0,2
+202,Brazos Valley Schools CU,13346.2,8
+203,"Bremer Bank, National Association",65855.7,20
+204,Bridgewater Bank,50925.0,4
+205,Broadway National Bank,42732.99190074441,2015
+206,Bruning Bank,9166.25,1
+207,Bryant Bank,8974.0,1
+208,Bryant State Bank,24724.666666666668,3
+209,Buckeye State Bank,77022.0,3
+210,Burling Bank,92529.0,1
+211,Busey Bank,43125.0,9
+212,"Business Bank of Texas, National Association",39369.83949238579,197
+213,Byline Bank,60141.157692307694,26
+214,"C3Bank, National Association",33338.395000000004,2
+215,CBW Bank,42898.125555555554,9
+216,CDC Small Business Finance Corporation,23099.60176,125
+217,"CFBank, National Association",16000.0,1
+218,CFG Community Bank,94250.985,2
+219,CIBC Bank USA,81398.6794117647,17
+220,CIBM Bank,68904.39,3
+221,CLB The Community Bank,9355.666666666666,3
+222,CNB Bank,66183.0,5
+223,"CNB Bank and Trust, National Association",25762.0,1
+224,"CRF Small Business Loan Company, LLC",16961.64383561644,73
+225,CSE FCU,1220.0,1
+226,CTBC Bank Corp. (USA).,57368.75,2
+227,Cache Valley Bank,37628.35757575757,66
+228,"Cadence Bank, National Association",51997.049954441914,439
+229,CalPrivate Bank,43420.0,5
+230,Caldwell Bank & Trust Company,9010.833333333334,3
+231,Cambridge Savings Bank,12500.0,1
+232,Cambridge State Bank,129575.0,1
+233,Campus FCU,38210.0,1
+234,Canvas CU,83140.0,1
+235,"Canyon Community Bank, National Association",131720.0,1
+236,CapStar Bank,74895.25,10
+237,Capital Area Realtors FCU,30625.0,1
+238,Capital Bank,47348.229890410956,365
+239,Capital Bank of Texas,29599.571428571428,14
+240,Capital CU,84600.0,1
+241,Capital City Bank,26110.0,1
+242,Capital Community Bank,79275.72285714287,7
+243,Capital Educators FCU,91366.85,1
+244,"Capital Farm Credit, ACA",23658.056704545448,88
+245,"Capital One, National Association",31240.658569682153,1636
+246,Capitol CU,48741.666666666664,3
+247,Capitol Federal Savings Bank,20100.0,1
+248,Capitol National Bank,35800.0,2
+249,Caprock FCU,15285.925000000001,6
+250,"Captex Bank, National Association",32075.834710743802,121
+251,Carmine State Bank,29138.46153846154,39
+252,Carolina Bank & Trust Co.,31100.0,2
+253,Carrollton Bank,87989.75,2
+254,Carson Community Bank,43100.0,1
+255,Carter FCU,23585.473684210527,95
+256,Cass Commercial Bank,82650.0,2
+257,Castroville State Bank,29363.60811594203,69
+258,Cathay Bank,43292.18421052631,38
+259,Cedar Rapids Bank and Trust Company,107700.0,1
+260,Celtic Bank Corporation,14120.775947946575,12833
+261,Cen-Tex CDC,50815.375,16
+262,"Cendera Bank, National Association",38467.16129032258,31
+263,Centennial Bank,53702.56854838712,186
+264,Centera Bank,11000.0,1
+265,"Centerstone SBA Lending, Inc.",62812.5,24
+266,Centier Bank,50546.4,5
+267,Centinel Bank of Taos,134600.0,1
+268,Centra CU,13230.0,1
+269,Central Bank,47276.497303921584,204
+270,Central Bank & Trust Co.,48250.0,2
+271,Central Bank of Boone County,31475.0,4
+272,Central Bank of Branson,20000.0,1
+273,Central Bank of Lake of the Ozarks,1700.0,1
+274,Central Bank of Oklahoma,51550.0,4
+275,Central Bank of St. Louis,68423.56363636363,22
+276,Central Bank of the Midwest,10200.0,1
+277,Central Minnesota CU,12833.333333333334,3
+278,Central National Bank,37622.129026315786,380
+279,Central Pacific Bank,27674.96153846154,13
+280,Central State Bank,20800.0,1
+281,"Central Texas Farm Credit, ACA",47171.04666666667,3
+282,Centric Bank,20833.0,1
+283,Century Bank,41730.11,4
+284,Century Bank of the Ozarks,15300.0,1
+285,Century Next Bank,9981.063333333334,3
+286,Chaffey FCU,22100.0,1
+287,"Chain Bridge Bank, National Association",30589.0,3
+288,Chambers Bank,27076.24,1
+289,Chappell Hill Bank,70214.77,1
+290,Charter Bank,37978.937676767695,198
+291,CharterWest Bank,49177.5,2
+292,Chartway FCU,33574.05857142857,14
+293,Chemung Canal Trust Company,60000.0,1
+294,Chickasaw Community Bank,21481.794,10
+295,Chisholm Trail State Bank,13000.0,1
+296,Choice Financial Group,21900.0,6
+297,Ciera Bank,39991.12205882355,272
+298,"Citibank, N.A.",47081.53846153846,65
+299,Citizens 1st Bank,29876.43536231884,69
+300,Citizens Alliance Bank,4100.0,1
+301,Citizens Bank,35292.32059149723,541
+302,Citizens Bank & Trust,48290.0,2
+303,"Citizens Bank & Trust Company of Vivian, Louisiana, Inc.",28099.0,5
+304,Citizens Bank and Trust Company of Ardmore,25532.411818181816,11
+305,Citizens Bank of Ada,40470.833333333336,12
+306,Citizens Bank of Chatsworth,57152.5,2
+307,"Citizens Bank of Kentucky, Inc.",117560.0,1
+308,Citizens Bank of Las Cruces,37676.15198412698,126
+309,Citizens Bank of Rogersville,23854.59,3
+310,"Citizens Bank, National Association",37563.976047904194,167
+311,Citizens Equity First CU,11663.303333333335,3
+312,Citizens First Bank,51700.0,3
+313,Citizens National Bank,40424.42994791667,192
+314,Citizens National Bank at Brownwood,33319.172932330825,133
+315,Citizens National Bank of Crosbyton,35359.97550000001,20
+316,Citizens National Bank of Texas,37352.67471819646,1242
+317,"Citizens National Bank, National Association",19416.91888888889,9
+318,Citizens State Bank,32173.208399071966,862
+319,Citizens State Bank of Luling,26982.322567567568,74
+320,Citizens State Bank of Milford,21980.0,1
+321,City & County CU,26117.28,1
+322,City Bank,33775.7852244389,1604
+323,City Bank & Trust Co.,59637.0,2
+324,City FCU,9201.562727272727,11
+325,City National Bank,50421.688048780496,41
+326,City National Bank of Florida,60120.666666666664,96
+327,Citywide Banks,21500.0,2
+328,Civista Bank,54100.0,3
+329,"Classic Bank, National Association",28807.780457142864,175
+330,Clear Mountain Bank,22406.928,5
+331,Clearinghouse CDFI PPP,5859.191489361702,47
+332,Clearpath FCU,26035.0,1
+333,CoBank ACB,82474.52545454545,11
+334,Coastal Community Bank,49030.0,10
+335,Coastal States Bank,68825.0,8
+336,Coffee County Bank,62710.0,2
+337,Cogent Bank,71520.71428571429,14
+338,Coleman County State Bank,27845.51724137931,145
+339,"Colonial Savings, F.A.",35596.153846153844,26
+340,Colony Bank,22871.8125,4
+341,Columbia State Bank,80888.09634146342,41
+342,Comerica Bank,39481.59176225235,2877
+343,Commerce Bank,39023.43775510204,196
+344,Commerce Bank of Arizona,49125.0,2
+345,CommerceWest Bank,23900.0,1
+346,Commercial Bank,10297.0,1
+347,Commercial Bank and Trust Company,27949.75,4
+348,Commercial Bank of California,43329.75,5
+349,"Commercial Bank of Texas, N.A.",34900.29886246122,967
+350,Commercial National Bank of Texarkana,44933.46738636364,88
+351,Commercial State Bank,43031.610363636355,55
+352,Commercial State Bank of Wagner,9550.0,1
+353,Commonwealth Business Bank,29379.373592233012,206
+354,Community Bank,34880.272467532464,77
+355,"Community Bank & Trust, Waco, Texas",41094.79595330735,257
+356,Community Bank of Louisiana,56872.53555555556,9
+357,Community Bank of Mississippi,56650.0,16
+358,Community Bank of Raymore,13293.5,10
+359,"Community Bank of Wichita, Inc",88600.0,1
+360,"Community Banks of Colorado, A Division of",53186.666666666664,90
+361,Community Choice CU,12855.425,2
+362,Community Federal Savings Bank,105277.9,10
+363,Community Financial Services Bank,26107.123333333333,3
+364,Community First Bank,46777.76,2
+365,Community First Bank of Indiana,16561.02,1
+366,Community First National Bank,30961.79245283019,53
+367,Community National Bank,36994.232671840466,902
+368,Community National Bank & Trust,30066.666666666668,3
+369,Community National Bank & Trust of Texas,30725.784427994626,743
+370,Community Neighbor Bank,39390.0,1
+371,Community Savings Bank,50100.0,1
+372,Community Service CU,31822.905769230772,26
+373,Community State Bank,20760.0,15
+374,CommunityAmerica CU,82600.0,1
+375,"CommunityBank of Texas, National Association",45227.61027944112,1503
+376,Concordia Bank & Trust Company,16622.9,1
+377,Congressional Bank,28410.347499999993,24
+378,ConnectOne Bank,16600.0,1
+379,"Connecticut Community Bank, National Association",61320.134,5
+380,Continental Bank,14300.0,16
+381,Conway Bank,56733.333333333336,15
+382,CorTrust Bank National Association,16112.0,1
+383,Core Bank,38758.25,4
+384,CoreFirst Bank & Trust,87122.2,5
+385,CornerStone State Bank,18645.0,1
+386,Cornerstone Bank,30527.07,5
+387,"Cornerstone Bank, National Association",20000.0,1
+388,Cornerstone Community Bank,105000.0,1
+389,Cornerstone National Bank & Trust Company,73067.0,2
+390,CornerstoneBank,63150.0,2
+391,Cornhusker Bank,88100.0,2
+392,Country Club Bank,20833.0,1
+393,Credit Human FCU,17781.240404411757,544
+394,Credit Union of America,8043.335,2
+395,Crockett National Bank,32240.635964912282,228
+396,Cross Keys Bank,29855.555555555555,9
+397,Cross River Bank,24702.314720986797,8996
+398,CrossFirst Bank,46976.25,80
+399,Crossroads Bank,27905.62091503268,153
+400,Crowell State Bank,20514.615833333333,12
+401,Crown Bank,20832.0,1
+402,Customers Bank,19426.7044142804,2689
+403,Cy Fair FCU,22919.46153846154,91
+404,"Cypress Bank, SSB",34487.97194444444,36
+405,Cyprus FCU,3300.0,1
+406,D. L. Evans Bank,40800.0,1
+407,Dacotah Bank,31700.0,1
+408,"Dakota Community Bank & Trust, National Association",19950.0,2
+409,Dakota Western Bank,111750.0,1
+410,"Dallas Capital Bank, National Association",54134.081300813006,123
+411,De Witt Bank & Trust Co.,14000.0,2
+412,Del Norte Bank,48965.65625,32
+413,Delta Bank,11750.0,1
+414,Delta Community CU,20428.571428571428,7
+415,Deseret First FCU,43750.0,2
+416,Desert Financial FCU d/b/a Desert Financial CU,8881.25,2
+417,Devon Bank,34141.0,1
+418,Diamond Bank,34268.506923076915,26
+419,Digital FCU,46400.0,2
+420,Dogwood State Bank,39000.0,1
+421,"Dollar Bank, A Federal Savings Bank",10300.0,1
+422,Dominion Bank,42629.896229508195,244
+423,DuGood Federal Credit Union,22621.19951219511,41
+424,Dundee Bank,82333.33333333333,3
+425,Dupaco Community CU,2450.0,2
+426,EECU,23748.37388329979,497
+427,EH National Bank,26200.0,2
+428,ELCA FCU,27382.34571428571,7
+429,Eagle Bank,43145.25,2
+430,EagleBank,14375.0,1
+431,East West Bank,37174.9283778234,487
+432,Eastern Bank,26262.0,1
+433,Eastman CU,9566.237058823532,17
+434,Educators CU,9044.443333333335,3
+435,El Paso Area Teachers FCU,12044.666666666666,6
+436,Embassy National Bank,37750.0,1
+437,Embers CU,5207.0,1
+438,Emigrant Bank,71183.5,2
+439,Empire Financial FCU,127955.0,1
+440,Endeavor Bank,135100.0,1
+441,Ennis State Bank,46119.52723214286,224
+442,Enterprise Bank,12400.0,1
+443,Enterprise Bank & Trust,72172.22222222222,18
+444,Equitable Bank,21900.0,1
+445,Equity Bank,23456.756756756757,37
+446,Essential FCU,120110.55,1
+447,Everest FCU,4818.333333333333,3
+448,Evergreen Bank Group,69630.0,1
+449,Evolve Bank & Trust,53408.333333333336,24
+450,Exchange Bank,11792.5,2
+451,Exchange Bank and Trust Company,18000.0,1
+452,"Extraco Banks, National Association",52115.80017699115,226
+453,F & C Bank,3800.0,1
+454,F & M Bank,20575.0,4
+455,F&M Bank,13137.5,2
+456,"FC Marketplace, LLC (dba Funding Circle)",38885.65069444446,288
+457,FMS Bank,85589.534,5
+458,FNB Community Bank,92700.0,1
+459,FNB Washington,72400.0,1
+460,FNBC Bank,34366.666666666664,3
+461,FNBC Bank and Trust,41665.0,1
+462,Falcon International Bank,36566.47629834249,362
+463,Falcon National Bank,5700.0,1
+464,Fannin Bank,27305.090909090908,22
+465,"Farm Bureau Bank, FSB",19665.169898989898,99
+466,"Farm Credit Services of Eastern Missouri, PCA",12794.37,2
+467,"Farm Credit of South Florida, ACA",4583.325,1
+468,Farmers & Merchants Bank of Long Beach,76089.33333333333,3
+469,Farmers & Stockmens Bank,36234.28571428572,14
+470,Farmers Bank,14880.0,3
+471,Farmers Bank & Trust Company,50519.575090909086,110
+472,Farmers Insurance Group FCU,20271.95731707317,164
+473,Farmers Savings Bank,21897.0,1
+474,Farmers State Bank,26557.350882352952,204
+475,Farmers State Bank & Trust Co,39415.9,2
+476,Farmers State Bank & Trust Co.,3240.0,1
+477,"Farmers State Bank of Alto Pass, Illinois",46970.55368421053,19
+478,Farmers State Bank of Calhan,56579.0,1
+479,Farmers State Bank of NewCastle,35620.833333333336,24
+480,Farmers and Merchants Bank of St. Clair,500.0,1
+481,Farmers and Merchants State Bank,20833.32,1
+482,Farmers and Merchants State Bank of Appleton,6121.0,2
+483,"Fayette Savings Bank, ssb",31552.18155000003,200
+484,Fayetteville Bank,23185.666666666668,39
+485,Fidelity Bank,23169.428571428572,7
+486,Fidelity Bank of Texas,23088.03823529413,51
+487,Fidelity Deposit and Discount Bank,62200.0,1
+488,Field & Main Bank,31275.0,4
+489,Fifth Third Bank,38535.68421052631,95
+490,FinWise Bank,52380.0,20
+491,Financial Federal Bank,48134.114,5
+492,FineMark National Bank & Trust,7315.0,3
+493,FirsTier Bank,50144.0,2
+494,First American Bank,59400.65485714286,35
+495,First American Bank & Trust,35169.0,1
+496,First American National Bank,6944.0,1
+497,First Bank,28391.44860632184,696
+498,First Bank & Trust,43302.840717131476,251
+499,First Bank & Trust Co.,39757.666666666664,6
+500,First Bank Elk River,3300.0,1
+501,First Bank Kansas,23800.0,1
+502,First Bank Richmond,22000.0,1
+503,First Bank and Trust,87214.66666666667,3
+504,First Bank and Trust of Childress,23693.536585365855,41
+505,First Bank and Trust of Memphis,34968.68709677419,31
+506,First Bank of Alabama,84764.81,2
+507,First Bank of Highland Park,32317.0,1
+508,First Bank of Manhattan,18600.0,1
+509,First Bank of Owasso,34689.47368421053,38
+510,First Bank of the Lake,48411.60328125,192
+511,"First Bank, Upper Michigan",37698.25,1
+512,"First Bankers Trust Company, National Association",16097.12,1
+513,First Basin CU,21851.536516853932,356
+514,First Business Bank,58848.4,5
+515,First Capital Bank,31742.391304347828,92
+516,First Chatham Bank,25083.333333333332,3
+517,First Choice Bank,39295.83857142857,7
+518,First Citizens Bank,24202.333333333332,3
+519,First Citrus Bank,14930.0,1
+520,First Command Bank,32567.506923076933,65
+521,First Commercial Bank,78072.0,1
+522,"First Commercial Bank, National Association",40600.4329004329,231
+523,First Commonwealth Bank,64639.0,5
+524,First Community Bank,38459.893325526966,854
+525,First Community Bank and Trust,22053.0,3
+526,First Community CU,26613.62824427481,131
+527,First Dakota National Bank,4000.0,1
+528,First Eagle Bank,15080.0,1
+529,First Education FCU,4743.844999999999,2
+530,First Enterprise Bank,8788.5,6
+531,First FarmBank,50781.25,4
+532,First Farmers Bank & Trust Co.,66724.75,2
+533,First Federal Bank,61600.0,5
+534,"First Federal Bank Littlefield, Texas",26307.187749999994,40
+535,First Federal Bank of Louisiana,32871.5,8
+536,"First Federal Community Bank, SSB",33669.24277173913,184
+537,First Federal Savings & Loan Association of Lakewood,93097.0,1
+538,First Federal Savings Bank,10300.0,1
+539,First Federal Savings Bank of Twin Falls,56900.0,1
+540,First Fidelity Bank,30096.659999999996,5
+541,First Financial Bank,34872.334,30
+542,"First Financial Bank, National Association",38065.07074299408,5424
+543,First Florida Integrity Bank,94460.0,1
+544,First Foundation Bank,20800.0,1
+545,First Freedom Bank,39407.9125,8
+546,First Guaranty Bank,33873.76615384616,130
+547,First Hawaiian Bank,66208.25,2
+548,First Home Bank,31636.658424908426,546
+549,First Horizon Bank,55715.9304,25
+550,First IC Bank,19434.883720930233,43
+551,First International Bank & Trust,81450.0,4
+552,First Internet Bank of Indiana,54861.04583333333,24
+553,First Interstate Bank,28630.35714285714,7
+554,First Liberty Bank,46145.097499999996,12
+555,First Merchants Bank,15611.25,2
+556,First Metro Bank,59125.0,1
+557,"First Mid Bank & Trust, National Association",69866.66666666667,3
+558,First Midwest Bank,55067.916666666664,6
+559,First Missouri Bank,38712.94,3
+560,First Missouri State Bank of Cape County,57750.0,1
+561,First National Bank,28270.763908948204,637
+562,First National Bank & Trust Company,122177.0,1
+563,First National Bank & Trust Company of McAlester,41369.174999999996,6
+564,First National Bank Albany/Breckenridge,30195.420289855072,345
+565,First National Bank Baird d/b/a First Bank Texas,30908.781270073,685
+566,First National Bank North,16000.0,1
+567,First National Bank Texas,29406.34304700162,1234
+568,First National Bank and Trust Company,11900.0,1
+569,First National Bank and Trust Company of Ardmore,23223.662142857145,14
+570,First National Bank and Trust Company of Weatherford,25600.0,6
+571,First National Bank in DeRidder,25517.775,2
+572,First National Bank in Port Lavaca,30715.10814814818,189
+573,First National Bank of Alvin,41682.17391304348,46
+574,First National Bank of Anderson,31034.23404255319,47
+575,First National Bank of Bosque County,22577.126126126128,111
+576,First National Bank of Burleson,30120.389830508473,295
+577,First National Bank of Central Texas,37203.7109375,512
+578,First National Bank of Clarksdale,20800.0,1
+579,First National Bank of Dublin,23768.38209677419,62
+580,First National Bank of Eastern Arkansas,23244.0,1
+581,First National Bank of Fort Stockton,43716.96217391304,23
+582,First National Bank of Giddings,27135.86453125,64
+583,First National Bank of Hereford,36418.30275229358,109
+584,First National Bank of Huntsville,33385.97182410422,307
+585,First National Bank of Jasper,37368.86218390805,87
+586,First National Bank of Louisiana,62658.333333333336,6
+587,First National Bank of Oklahoma,35340.0,5
+588,First National Bank of Omaha,32048.651250000028,200
+589,First National Bank of Pasco,11878.0,1
+590,First National Bank of Pennsylvania,43644.42857142857,7
+591,First National Bank of Picayune,5405.0,1
+592,First National Bank of South Padre Island,26556.349206349205,63
+593,First National Bank of Weatherford,34565.70292887029,239
+594,First National Bank of Winnsboro,41275.47,16
+595,First New Mexico Bank,39886.98090909091,11
+596,First New Mexico Bank Las Cruces,58923.02333333334,3
+597,First Northern Bank of Wyoming,32627.0,3
+598,First Oklahoma Bank,59388.88888888889,18
+599,First PREMIER Bank,41304.0,1
+600,First Palmetto Bank,34700.0,1
+601,First Pryority Bank,25416.666666666668,6
+602,First Republic Bank,36378.75,40
+603,First Savings Bank,40771.5564516129,124
+604,First Secure Bank and Trust Co.,24175.0,2
+605,First Secure Community Bank,48473.515,2
+606,First Security Bank,33199.03214285714,14
+607,First Security Bank & Trust Company,20832.5,1
+608,First Security Bank of Deer Lodge,35315.810000000005,6
+609,First Security Bank of Nevada,46788.0,1
+610,First Security State Bank,27164.218219178085,73
+611,First Sentinel Bank,83286.0,1
+612,First Service Bank,43933.333333333336,3
+613,First Service Credit Union,17750.104507042248,71
+614,First Sound Bank,2800.0,1
+615,First Southern National Bank,129854.0,1
+616,First Southern State Bank,18831.45,1
+617,First Southwest Bank,75781.5275,4
+618,First State Bank,33107.895308588675,2317
+619,First State Bank & Trust,14900.0,1
+620,First State Bank Nebraska,35323.529411764706,17
+621,First State Bank of Bedias,36601.666666666664,36
+622,First State Bank of Burnet,32637.258727272736,110
+623,First State Bank of DeQueen,93134.4,2
+624,First State Bank of Odem,36038.35396551724,174
+625,First State Bank of San Diego,38601.14722222223,54
+626,"First State Bank of St. Charles, Missouri",69264.0,1
+627,First State Bank of Texas,33052.29885057471,174
+628,First State Bank of Uvalde,36996.51031413613,191
+629,First State Community Bank,10000.0,1
+630,First Texas Bank,41288.46867834397,628
+631,First Texoma National Bank,27900.04857142856,21
+632,First United Bank,30683.34931617056,1243
+633,First United Bank & Trust,50700.0,1
+634,First United Bank and Trust Company,35735.836612021856,3660
+635,First Utah Bank,27125.0,8
+636,First Vision Bank of Tennessee,83500.0,1
+637,First Volunteer Bank,14047.75,1
+638,First Western Bank,38575.09,1
+639,First Western Bank & Trust,82500.0,1
+640,"First Western SBLC, Inc",50686.82352941176,17
+641,First Western Trust Bank,46476.333333333336,3
+642,First-Citizens Bank & Trust Company,61155.0,420
+643,First-Citizens National Bank,102218.0,1
+644,First-Lockhart National Bank,44184.65517241379,29
+645,FirstBank,34188.655757575754,33
+646,FirstBank Southwest,31367.48521440827,583
+647,"FirstCapital Bank of Texas, National Association",35370.416263879815,1531
+648,FirstLight FCU,28219.6905263158,152
+649,FirstState Bank,8512.5,1
+650,Firstar Bank,23210.0,1
+651,Firstrust Savings Bank,82466.66666666667,3
+652,Five Points Bank,3500.0,1
+653,Five Star Bank,64300.0,20
+654,FivePoint CU,12272.333333333334,3
+655,Flagler Bank,17437.0,1
+656,"Flagstar Bank, FSB",38368.42105263158,19
+657,Flatwater Bank,5200.0,1
+658,"Florida Capital Bank, National Association",57567.75,4
+659,Forest Park National Bank and Trust Company,106700.0,1
+660,Fort Davis State Bank,33848.125,8
+661,Fortis Private Bank,90885.0,4
+662,Fortress Bank,13366.666666666666,3
+663,FortuneBank,35620.0,10
+664,Foundation One Bank,5900.0,1
+665,Fountainhead SBF LLC,74014.30644578314,166
+666,Four Corners Community Bank,95200.0,2
+667,Franklin Bank & Trust Company,20800.0,1
+668,Franklin Synergy Bank,20833.0,1
+669,Frazer Bank,13266.666666666666,3
+670,Freedom Bank,37696.776,20
+671,Fresno First Bank,43035.0,1
+672,Frontier Bank,19161.864999999998,2
+673,Frontier Bank of Texas,37818.96765690377,239
+674,Frontier State Bank,57433.333333333336,3
+675,Frontwave CU,1408.0,1
+676,Frost Bank,43183.86016864727,14053
+677,Fulda Area CU,15000.0,1
+678,"Fulton Bank, National Association",54980.0,1
+679,"Fund-Ex Solutions Group, LLC",56979.010833333334,72
+680,"Fundbox, Inc.",19191.94208563538,724
+681,GBC International Bank,5215.0,1
+682,GECU,22174.492732166862,743
+683,"GNBank, National Association",102700.0,1
+684,Gate City Bank,12874.75,4
+685,Gateway First Bank,28747.535714285714,7
+686,Generations Bank,13284.524285714286,7
+687,Generations Community FCU,18024.20153846154,65
+688,Georgia Banking Company,28471.0,2
+689,Georgia's Own CU,49708.55,1
+690,Gibsland Bank & Trust Company,48925.0,8
+691,Glacier Bank,44740.718846153846,26
+692,Glens Falls National Bank and Trust Company,39300.0,1
+693,Glenwood State Bank Incorporated,44400.0,1
+694,Go FCU,20117.51851851852,27
+695,Gold Coast Bank,15600.0,1
+696,"Golden Bank, National Association",37341.56072790296,577
+697,"Golden Belt Bank, FSA",20800.0,1
+698,Golden Valley Bank,84680.0,1
+699,Goldenwest FCU,24201.25,4
+700,Gorham Savings Bank,52200.0,2
+701,"Graham Savings & Loan, SSB",34034.077142857146,14
+702,Grand Bank,61991.892222222225,18
+703,Grand Savings Bank,27200.0,3
+704,Grandview Bank,31206.581589958158,239
+705,Grant County Bank,8793.75,2
+706,Grant County State Bank,94324.0,3
+707,"Grasshopper Bank, National Association",101170.97,1
+708,Great American Bank,31700.0,1
+709,Great Nations Bank,14342.25,4
+710,Great Plains National Bank,43562.29918032787,122
+711,Great Southern Bank,38777.601500000004,20
+712,Great Western Bank,59226.90700000001,10
+713,Greater Nevada CU,31807.035586592196,179
+714,Greater State Bank,38084.049848484865,198
+715,Grinnell State Bank,20833.32,1
+716,"Grow America Fund, Incorporated",24296.99375,8
+717,Guadalupe Bank,38741.18965517241,174
+718,Guaranty Bank,35000.0,4
+719,Guaranty Bank & Trust Company,20412.5,8
+720,"Guaranty Bank & Trust Company of Delhi, Louisiana",43443.95,1
+721,"Guaranty Bank & Trust, National Association",41094.20223776224,1573
+722,Gulf Capital Bank,59254.551926605505,109
+723,Gulf Coast Bank,32013.222173913044,23
+724,Gulf Coast Bank and Trust Company,52815.38461538462,65
+725,HOMEBANK,88344.97,1
+726,"HSBC Bank USA, National Association",69511.25,16
+727,"Hana Small Business Lending, Inc.",39061.53846153846,13
+728,Hancock Whitney Bank,47539.88727659574,470
+729,Hanmi Bank,31777.297477203643,329
+730,Happy State Bank,33114.17704794262,2649
+731,HarborOne Bank,9600.0,1
+732,"Harvest Small Business Finance, LLC",55336.15101265822,158
+733,Haskell National Bank,20898.98245614035,57
+734,Hawthorn Bank,9950.0,2
+735,Heart of Louisiana FCU,5920.0,1
+736,Heartland Bank,11256.666666666666,3
+737,Heartland Bank and Trust Company,81900.0,2
+738,Heartland CU,14150.0,2
+739,Heartland State Bank,6231.25,1
+740,Henderson Federal Savings Bank,37886.260869565216,23
+741,"Heritage Bank, A Division of",24100.0,1
+742,"Heritage Bank, National Association",21164.09,11
+743,Heritage FCU,1200.0,1
+744,Herring Bank,37241.4493,300
+745,Hiawatha National Bank,21175.0,4
+746,Hickory Point Bank and Trust,99494.4,5
+747,High Plains Bank,47181.62947368421,19
+748,Highmark FCU,6375.0,2
+749,Hilltop National Bank,19297.5,2
+750,"Hinsdale Bank & Trust Company, National Association",75847.5,1
+751,"Home Bank, National Association",36540.0,5
+752,Home Federal Bank,15000.0,1
+753,"Home Loan Investment Bank, F.S.B.",16245.0,1
+754,Home Loan State Bank,68700.0,1
+755,HomeBank Texas,36861.2596969697,165
+756,HomeStreet Bank,73972.72727272728,11
+757,HomeTrust Bank,67772.5,4
+758,Homeland Federal Savings Bank,9487.4,2
+759,"Hometown Bank, National Association",37252.316602316605,518
+760,Hope Enterprise Corporation,19250.748360655736,122
+761,"Horizon Bank, SSB",50279.63516746411,836
+762,Horizon Community Bank,19350.0,2
+763,Houston FCU,23495.915781249998,128
+764,IBERIABANK,39402.61041666658,408
+765,"INB, National Association",20833.32,2
+766,"INTRUST Bank, National Association",33141.46666666667,135
+767,IQ CU,27200.0,1
+768,Idaho Central CU,26250.0,2
+769,Idaho First Bank,40283.92696202532,158
+770,InBank,28558.5,2
+771,InTouch CU,20917.89153846154,39
+772,"Incommons Bank, National Association",21362.611704545452,264
+773,IncredibleBank,53028.57142857143,21
+774,Independence Bank,103369.5,2
+775,Independent Bank,44068.63066753926,3056
+776,Industry State Bank,34077.77777777778,81
+777,Insbank,37540.0,5
+778,Inspire FCU,34242.0,1
+779,Integrity Bank & Trust,4125.0,1
+780,InterBank,32035.51975763962,949
+781,International Bank of Chicago,44338.41,2
+782,International Bank of Commerce,33016.29211131924,3737
+783,International City Bank,20835.0,1
+784,Interstate Bank,33475.53191489362,94
+785,Intuit Financing Inc.,28200.500679347828,1472
+786,"Investar Bank, National Association",33826.0417679558,181
+787,Investors Community Bank,13400.0,1
+788,Inwood National Bank,46626.40908980583,824
+789,Iowa Falls State Bank,120431.975,2
+790,"Iowa State Bank and Trust Company of Fairfield, Iowa",13130.0,1
+791,Israel Discount Bank of New York,47980.0,2
+792,Itria Ventures LLC,20930.16393442623,122
+793,JD Bank,24305.583333333332,6
+794,"JPMorgan Chase Bank, National Association",36718.406429620714,26537
+795,James Polk Stone Community Bank,70666.66666666667,3
+796,Jefferson Bank,48003.39384116694,617
+797,Jefferson Bank of Missouri,27700.0,5
+798,Johnson Bank,30800.0,2
+799,Johnson City Bank,28538.013953488375,43
+800,Johnson State Bank,7795.0,1
+801,Jonah Bank of Wyoming,132500.0,1
+802,Jonesboro State Bank,3820.2,1
+803,Jovia Financial FCU,16000.0,1
+804,Junction National Bank,27211.958333333332,60
+805,"KEB Hana Bank USA, National Association",10514.17,1
+806,KS StateBank,75022.22222222222,9
+807,"Kabbage, Inc.",15029.57527628886,10261
+808,Kanza Bank,41832.5,2
+809,Kaw Valley State Bank and Trust Company,31250.0,1
+810,Kearny Bank,99120.27333333333,3
+811,Kendall State Bank,83966.66666666667,3
+812,Kennebec Savings Bank,12200.0,1
+813,Kensington Bank,52246.75,4
+814,Key Community Bank,36654.0,2
+815,KeyBank National Association,56363.76470588235,34
+816,"Keystone Bank, National Association",34350.3715203426,467
+817,Kinecta FCU,8228.5,2
+818,Kirkpatrick Bank,68712.18999999999,6
+819,Kish Bank,35872.0,5
+820,"Kleberg Bank, National Association",40423.848978978975,333
+821,Kress National Bank,21631.988666666664,30
+822,LCA Bank Corporation,34880.16849056604,53
+823,Lake City Bank,37085.71428571428,7
+824,"Lake Forest Bank & Trust Company, National Association",63866.666666666664,12
+825,Lake Michigan CU,25400.0,1
+826,Lakeside Bank,39721.06014851486,202
+827,Lamar Bank and Trust Company,14988.0,1
+828,Lamar National Bank,37064.670634920636,252
+829,Landmark National Bank,15800.0,3
+830,Las Colinas FCU,34729.24906976744,43
+831,Lea County State Bank,14907.57142857143,7
+832,Lead Bank,8270.0,1
+833,"Leader Bank, National Association",55733.333333333336,3
+834,Ledyard National Bank,8600.0,1
+835,Legacy Bank,31319.86418604651,86
+836,Legacy National Bank,41250.0,2
+837,Legence Bank,73433.33333333333,3
+838,"Legend Bank, National Association",31971.408988764044,445
+839,Level One Bank,50150.0,2
+840,Lewis & Clark Bank,30950.0,1
+841,Lexicon Bank,4705.0,1
+842,Liberty Bank and Trust Company,38700.87046511629,43
+843,Liberty Capital Bank,43765.10761904767,168
+844,Liberty National Bank,50596.717333333334,15
+845,Life FCU,16684.28947368421,38
+846,"LiftFund, Inc.",21417.457344173443,738
+847,Lincoln Savings Bank,137852.5,1
+848,LinkBank,41689.2,5
+849,Live Oak Banking Company,49644.93243243243,592
+850,Llano National Bank,25878.015454545457,44
+851,Loan Source Incorporated,27611.249166666665,12
+852,Lone Star Bank,38398.11320754717,53
+853,"Lone Star Capital Bank, National Association",43424.78125,112
+854,Lone Star National Bank,29767.49673811743,2146
+855,Lone Star State Bank of West Texas,41132.94579945799,369
+856,Loyal Trust Bank,22847.25,8
+857,M C Bank & Trust Co.,23966.666666666668,12
+858,MBE Capital Partners,21805.59836065574,976
+859,MCBank,28819.161616161615,198
+860,"MUFG Union Bank, National Association",53029.4,5
+861,"MVB Bank, Inc.",81362.0,1
+862,Mabrey Bank,16696.916666666668,12
+863,Machias Savings Bank,3085.6666666666665,3
+864,Madison Valley Bank,47730.75,4
+865,Main Bank,102746.785,2
+866,Main Street Bank,84800.0,2
+867,Maine Savings FCU,13900.0,1
+868,Malvern Bank,34300.0,1
+869,"Malvern Bank, National Association",1570.2,1
+870,Manufacturers Bank & Trust Company,86600.0,1
+871,Manufacturers and Traders Trust Company,40644.5,8
+872,"Maple City Savings Bank, FSB",24460.0,1
+873,MapleMark Bank,34799.83526315788,19
+874,Marine Bank,77050.0,2
+875,Marine Bank & Trust Company,13570.0,1
+876,Marion County State Bank,16666.0,1
+877,Marion State Bank,42558.76,1
+878,Marlin Business Bank,56145.03142857143,7
+879,Marquette Savings Bank,53140.0,1
+880,Mason Bank,31497.06855263159,76
+881,McCurtain County National Bank,27300.0,2
+882,Meadows Bank,80015.38461538461,13
+883,Mechanics Bank,53351.0,7
+884,Mega Bank,25374.0,1
+885,Members Trust of the Southwest FCU,29103.41379310345,58
+886,Mercantile Bank of Michigan,69187.0,1
+887,Merchants & Farmers Bank & Trust Company,71251.0,1
+888,Merchants & Marine Bank,20750.0,1
+889,Merchants & Planters Bank,5700.0,1
+890,Merchants Bank of Indiana,57750.0,2
+891,"Merchants Bank, National Association",81000.0,2
+892,Merchants and Farmers Bank,32403.748,5
+893,Meridian Bank,26883.333333333332,6
+894,Meritrust FCU,16666.666666666668,3
+895,Mesquite CU,25944.66349514563,103
+896,"MetaBank, National Association",40724.64323529412,34
+897,Metairie Bank & Trust Company,37200.0,1
+898,Metro City Bank,45089.767441860466,172
+899,Metropolitan Commercial Bank,54700.0,1
+900,Mi Bank,18587.57,1
+901,Michigan State University FCU,17050.0,4
+902,Mid America Bank,46466.666666666664,3
+903,Mid Penn Bank,66725.0,16
+904,MidAmerica National Bank,28060.0,1
+905,MidCountry Bank,119600.0,1
+906,MidFirst Bank,42881.395348837206,86
+907,MidWestOne Bank,30700.0,3
+908,Midflorida CU,36877.0,1
+909,Midland States Bank,59815.0,3
+910,"Midstates Bank, National Association",20832.0,1
+911,Midwest Bank,39066.0,2
+912,Midwest BankCentre,14422.555555555555,9
+913,Midwest Community Bank,18085.0,1
+914,Midwest Regional Bank,40405.94059405941,202
+915,Millennium Bank,104025.0,4
+916,"Mineola Community Bank, S.S.B.",23033.354059405934,101
+917,Minnesota Bank & Trust,57550.0,2
+918,Minnesota Lakes Bank,141500.0,1
+919,Minnwest Bank,9900.0,1
+920,Mission Valley Bank,106250.0,2
+921,Mississippi FCU,5984.0,1
+922,Montecito Bank & Trust,13410.333333333334,3
+923,Montgomery Bank,23450.0,2
+924,Moody National Bank,41965.37181996086,511
+925,Morton Community Bank,20533.333333333332,3
+926,Mountain America FCU,22400.0,17
+927,Mountain Valley Bank,20800.0,1
+928,Muenster State Bank,32447.266666666666,120
+929,Municipal Trust and Savings Bank,48325.0,1
+930,MutualOne Bank,71102.0,1
+931,NBC Oklahoma,30625.0,4
+932,NBKC Bank,17581.81818181818,11
+933,NCMIC Finance Corporation,12158.0,18
+934,National Bank & Trust,33134.36022727273,88
+935,National Bank of Commerce,71900.0,1
+936,"National Cooperative Bank, National Association",83354.0,4
+937,National United,31784.340659340658,364
+938,Navy Army Community CU,19963.378238341968,386
+939,Navy FCU,15445.482673267326,404
+940,Nebraska Bank of Commerce,15500.0,1
+941,Neighborhood National Bank,23500.0,1
+942,Neighbors FCU,12166.666666666666,3
+943,New Carlisle Federal Savings Bank,41445.0,1
+944,New Mexico Bank & Trust,57050.0,2
+945,New Millennium Bank,46812.333333333336,3
+946,New Valley Bank & Trust,50285.0,2
+947,NewFirst National Bank,40693.85992636234,679
+948,"Newtek Small Business Finance, Inc.",26947.572488199596,1483
+949,Newton Federal Bank,66694.0,2
+950,Nicolet National Bank,51000.0,1
+951,Nizari Progressive FCU,20494.08165991903,247
+952,North American Banking Company,113873.37,1
+953,North Dallas Bank & Trust Company,40139.00355871886,562
+954,"North Shore Bank, A Cooperative Bank",17507.0,1
+955,"North Shore Bank, FSB",88935.0,1
+956,North Side Federal Savings & Loan Association of Chicago,61177.5,4
+957,North Star Community CU,20832.0,1
+958,North State Bank,23200.0,1
+959,Northeast Bank,37353.910416666666,240
+960,Northeast CU,3400.0,1
+961,Northern Bank and Trust Company,28300.0,1
+962,Northrim Bank,40389.850000000006,2
+963,Northview Bank,8700.0,2
+964,Northwest Bank,42604.11111111111,9
+965,Northwest Bank & Trust Company,101200.0,1
+966,Northwest Community CU,3061.25,1
+967,Northwest FCU,18018.155111111108,45
+968,NoteWorthy FCU,7417.63,5
+969,Notre Dame FCU,34355.46666666667,15
+970,Nusenda FCU,9884.0,1
+971,Oak Valley Community Bank,1510.37,1
+972,OakStar Bank,15733.333333333334,3
+973,Oakwood Bank,40559.69088235293,102
+974,Ocean Bank,5000.0,1
+975,Oklahoma Central CU,20607.75,1
+976,Oklahoma State Bank,35890.007,10
+977,Oklahoma's CU,11980.0,1
+978,Old Missouri Bank,37025.0,4
+979,Old National Bank,58660.0,10
+980,Olean Area FCU,22418.0,1
+981,One World Bank,42987.06310861421,267
+982,OneSouth Bank,7463.32,1
+983,OneUnited Bank,24945.4875,8
+984,"OneWest Bank, A Division of",47972.20652173912,23
+985,Open Bank,45151.1320754717,53
+986,Opportunity Bank of Montana,8000.0,1
+987,Opportunity Fund Community Development,14006.235294117647,17
+988,OptimumBank,37975.0,1
+989,Optus Bank,17194.0,3
+990,Origin Bank,41052.34596638655,952
+991,Orrstown Bank,9800.0,1
+992,Osgood State Bank,62633.333333333336,3
+993,Ottawa Savings Bank,5070.2,1
+994,Ozark Bank,113400.0,1
+995,Ozona National Bank,35996.36705314009,207
+996,"PNC Bank, National Association",48661.22448979592,49
+997,POINTWEST BANK,22602.449890109903,91
+998,Pacific City Bank,41778.04878048781,41
+999,Pacific Enterprise Bank,44983.333333333336,6
+1000,Pacific Mercantile Bank,63783.333333333336,6
+1001,Pacific Premier Bank,66332.40845070423,71
+1002,Pacific Western Bank,58162.36,25
+1003,Pantex FCU,9154.545454545454,11
+1004,Paragon Bank,30183.75,16
+1005,Park Ridge Community Bank,24790.0,5
+1006,Park State Bank,145820.0,1
+1007,Park State Bank & Trust,37670.081666666665,6
+1008,Parkside Financial Bank & Trust,36940.525,2
+1009,Partners Bank,41088.17,1
+1010,Partners Bank of California,38300.0,1
+1011,Pathway Bank,14526.05,1
+1012,Patterson State Bank,7974.880000000001,2
+1013,Pavillion Bank,39972.22222222222,36
+1014,Peapack-Gladstone Bank,20900.0,1
+1015,Pearland State Bank,44013.5,60
+1016,Pelican State CU,21162.333333333332,3
+1017,People's Bank of Commerce,6066.666666666667,3
+1018,People's Bank of Seneca,26526.11111111111,9
+1019,"People's United Bank, National Association",24600.0,1
+1020,PeopleFund,18489.532258064515,248
+1021,Peoples Bank,32794.4748091603,655
+1022,Peoples Bank & Trust,122900.0,1
+1023,Peoples Bank and Trust Company,58118.181818181816,22
+1024,Peoples Bank of the South,64277.5,1
+1025,"Peoples National Bank, National Association",7460.0,5
+1026,Peoples State Bank,36400.0,7
+1027,Peoples State Bank of Hallettsville,33927.059516129026,124
+1028,PeoplesBank,69100.0,1
+1029,"PeoplesBank, A Codorus Valley Company",5000.0,1
+1030,Phelps County Bank,68652.92,1
+1031,Pilgrim Bank,31892.710843373494,249
+1032,Pine Island Bank,17125.0,1
+1033,Pine River State Bank,5900.0,1
+1034,Pinnacle Bank,37387.07514555468,1271
+1035,Pinnacle Bank-Wyoming,20700.0,1
+1036,Pioneer Bank,52506.24727272727,22
+1037,Pioneer Bank & Trust,13125.0,2
+1038,"Pioneer Bank, SSB",52453.09027777778,576
+1039,Pioneer Mutual FCU,16972.68221574344,343
+1040,Plains Commerce Bank,38225.0,4
+1041,Plains State Bank,42736.409933333314,450
+1042,PlainsCapital Bank,53872.91483888584,1831
+1043,Planters Bank & Trust Company,55880.0,5
+1044,"Planters Bank, Inc.",1936.0,2
+1045,Platinum Bank,22066.0,3
+1046,Platte Valley Bank,13927.833636363635,11
+1047,Plattsmouth State Bank,109300.0,1
+1048,Pointbank,37115.184597938154,485
+1049,Pony Express Bank,22545.666666666668,3
+1050,Poppy Bank,79500.0,2
+1051,Prairie Bank of Kansas,10000.0,1
+1052,Prairie Community Bank,19400.0,1
+1053,Premier Bank,65900.0,1
+1054,Premier Bank of Arkansas,28237.9,2
+1055,Premier Members CU,2505.0,1
+1056,"Presidential Bank, FSB",19166.25,3
+1057,"Prestamos CDFI, LLC",12422.333333333334,21
+1058,Prime Bank,41275.0,4
+1059,Prime Meridian Bank,13700.0,1
+1060,PrimeWay FCU,35031.57894736842,114
+1061,Princeville State Bank,7577.0,1
+1062,Production Credit Association of Southern New Mexi,22726.0,2
+1063,Professional Bank,6500.0,1
+1064,Progress Bank and Trust,36596.92857142857,7
+1065,Progressive Bank,31078.79142857143,7
+1066,Progressive National Bank,7721.475,2
+1067,PromiseOne Bank,27421.69135802469,81
+1068,Prosperity Bank,39216.99531823548,9317
+1069,Providence Bank,43022.5,86
+1070,Providence Bank & Trust,4502.845,2
+1071,"Providence Bank of Texas, SSB",39327.02697674419,86
+1072,"Provident State Bank, Inc.",10462.0,1
+1073,"Quail Creek Bank, National Association",32197.4,1
+1074,Queensborough National Bank and Trust Company,22475.0,4
+1075,R Bank,44571.51810584958,359
+1076,RCB Bank,70099.12759999999,25
+1077,Raccoon Valley Bank,141200.0,1
+1078,Radius Bank,38153.59920634921,252
+1079,Randolph-Brooks FCU,30915.882,60
+1080,Rayne State Bank & Trust Company,57050.0,2
+1081,"Raza Development Fund, Inc.",33750.0,1
+1082,"Readycap Lending, LLC",31056.929411764704,2805
+1083,Red Crown FCU,24600.0,1
+1084,Red River Bank,39800.0,1
+1085,Red River Empl FCU,20791.310218978102,274
+1086,Redwood CU,20800.0,1
+1087,Redwood Capital Bank,20800.0,1
+1088,Regent Bank,16521.0,100
+1089,Regions Bank,34732.266927144534,1702
+1090,Reliance Savings Bank d/b/a Reliance Bank,136134.0,1
+1091,Reliant Bank,17600.0,1
+1092,"Relyance Bank, National Association",38033.333333333336,3
+1093,Renasant Bank,55166.666666666664,15
+1094,Republic Bank & Trust Company,51777.77777777778,9
+1095,Republic Bank of Chicago,47949.5,4
+1096,Republic First Bank d/b/a Republic Bank,142500.0,1
+1097,"Resource Bank, National Association",4800.0,1
+1098,Resource One CU,19830.640939597317,298
+1099,Richfield-Bloomington CU,11300.0,1
+1100,Rio Bank,33284.666666666664,534
+1101,Rio Grande Savings & Loan Association,16076.7,1
+1102,River Bank & Trust,130200.0,1
+1103,River City Bank,73464.0,1
+1104,River City FCU,21702.04234604106,341
+1105,RiverHills Bank,11800.0,1
+1106,Riverland Bank,147400.0,1
+1107,Riverview Bank,99451.664,15
+1108,Robertson Banking Company,59500.0,1
+1109,Rockland Trust Company,17016.0,5
+1110,Round Top State Bank,42543.775132275136,189
+1111,Royal Business Bank,41266.666666666664,3
+1112,Rural Community Assistance Corporation,22177.059999999998,4
+1113,S & T Bank,90315.0,1
+1114,SAFE CU,20833.0,1
+1115,SJN Bank of Kansas,20833.32,1
+1116,"SNB Bank, National Association",38937.5,16
+1117,SSB Bank,11750.0,1
+1118,Sabine State Bank & Trust Company,45807.75628571428,35
+1119,Sage Capital Bank,32222.301169590643,342
+1120,Sandhills State Bank,54966.666666666664,6
+1121,Sandia Laboratory FCU,11556.355,4
+1122,Sandy Spring Bank,3443.0,1
+1123,Sanger Bank,22259.95510638298,47
+1124,Sanibel Captiva Community Bank,18433.333333333332,3
+1125,Santa Cruz County Bank,57708.735,4
+1126,"Santander Bank, National Association",74912.5,2
+1127,SaviBank,18000.0,1
+1128,Savoy Bank,86310.64,3
+1129,Schertz Bank & Trust,46492.72727272727,176
+1130,Scott State Bank,9165.0,1
+1131,Seacoast Commerce Bank,47834.545454545456,55
+1132,Seacoast National Bank,38695.666666666664,6
+1133,Seaside National Bank & Trust,33025.0,1
+1134,Seattle Bank,78001.5,4
+1135,Security Bank,16667.5,4
+1136,Security Bank and Trust Company,16533.333333333332,3
+1137,Security Bank of Crawford,42157.92307692308,39
+1138,Security Bank of Pulaski County,10580.701666666668,6
+1139,Security Federal Bank,18480.0,1
+1140,Security Financial Bank,69300.0,1
+1141,Security First Bank,14227.5,1
+1142,Security First National Bank of Hugo,23430.464444444442,9
+1143,Security National Bank of Omaha,43413.8,125
+1144,Security Service FCU,22018.87088295689,974
+1145,Security State Bank,35134.91051612906,155
+1146,Security State Bank & Trust,35979.801530054654,732
+1147,Security State Bank of Oklahoma,24350.0,2
+1148,Select Bank,15000.0,1
+1149,Select Bank & Trust Company,24200.0,1
+1150,Self-Help FCU,17374.5,6
+1151,Sentry Bank,133600.0,1
+1152,ServisFirst Bank,38957.142857142855,7
+1153,Settlers Bank,6000.0,1
+1154,"Shamrock Bank, National Association",37850.0,2
+1155,"Shelby Savings Bank, SSB",37265.98484848485,132
+1156,Shinhan Bank America,25336.41975308642,162
+1157,Shoreline CU,27307.1,1
+1158,Signature Bank,70258.5,8
+1159,Signature Bank of Arkansas,52910.0,1
+1160,Silicon Valley Bank,56005.463797468365,79
+1161,Silver Lake Bank,21660.0,5
+1162,Simmons Bank,46423.149606299216,762
+1163,Small Business Bank,18372.779393939392,33
+1164,Solera National Bank,25022.00333333333,9
+1165,Solutions North Bank,98900.0,1
+1166,Sonabank,40870.693766233766,77
+1167,"South Central Bank, Inc.",20192.0,2
+1168,South Louisiana Bank,50180.0,5
+1169,South Porte Bank,42395.0,3
+1170,"South State Bank, National Association",63393.471999999994,5
+1171,SouthPoint Bank,27144.978333333333,6
+1172,"SouthStar Bank, S.S.B.",36252.111972386585,507
+1173,"SouthTrust Bank, National Association",32107.911318897633,508
+1174,SouthWest Bank,47057.94483568075,426
+1175,Southern Bancorp Bank,138066.66666666666,3
+1176,Southern Bank,60816.666666666664,12
+1177,Southern Bank and Trust Company,31200.0,1
+1178,Southern Heritage Bank,115804.6,1
+1179,Southside Bank,39997.979014836805,1685
+1180,Southwest Capital Bank,66596.34,6
+1181,Southwest Heritage CU,41627.599074074074,54
+1182,Southwest National Bank,17250.0,1
+1183,Southwestern National Bank,28394.745484400657,609
+1184,Spectra Bank,33710.283333333326,102
+1185,"Spirit of Texas Bank, SSB",42979.72571367154,2326
+1186,SpiritBank,40706.0,5
+1187,Spring Hill State Bank,33475.83895833334,96
+1188,Springfield State Bank,10283.67,1
+1189,Spur Security Bank,23773.35714285714,14
+1190,St. Landry Homestead Federal Savings Bank,39854.442500000005,4
+1191,St. Louis Bank,45950.0,6
+1192,Star Tech FCU,13227.0,1
+1193,Star of Texas CU,44717.0,1
+1194,Starion Bank,8100.0,1
+1195,State Bank & Trust,20833.0,1
+1196,State Bank Northwest,79450.0,2
+1197,State Bank of De Kalb,32716.340714285718,182
+1198,State Bank of Southern Utah,54300.0,4
+1199,State Bank of Texas,27032.52467889908,218
+1200,State Savings Bank,4878.32,1
+1201,State Street Bank and Trust Company,33025.0,1
+1202,Stearns Bank National Association,47765.898342857145,175
+1203,Sterling Bank,77866.66666666667,6
+1204,Sterling National Bank,21900.0,2
+1205,Stock Yards Bank & Trust Company,41600.0,1
+1206,Stockman Bank of Montana,19350.0,2
+1207,Stockmans Bank,35422.0,49
+1208,Stockmens Bank,8752.25,2
+1209,Stone Bank,42827.0,3
+1210,"Stride Bank, National Association",38735.558750000004,32
+1211,Studio Bank,12843.75,1
+1212,Sturgis Bank & Trust Company,16484.0,1
+1213,Summit CU,30087.0,1
+1214,Suncoast CU,26587.5,2
+1215,Sundown State Bank,33886.726686390524,169
+1216,"Sunflower Bank, National Association",58109.36992753623,138
+1217,"Sunrise Banks, National Association",15168.5,24
+1218,Sunwest Bank,60766.666666666664,3
+1219,Surety Bank,10375.0,1
+1220,Sutton Bank,9300.0,1
+1221,Synergy Bank,23900.0,1
+1222,Synovus Bank,46645.24466666665,15
+1223,"T Bank, National Association",51921.01531365314,271
+1224,"TBK Bank, SSB",43465.758653846155,52
+1225,TCF National Bank,28159.877246376807,69
+1226,"TD Bank, National Association",52994.05882352941,17
+1227,"TIAA Bank, A Division of",12852.717692307693,13
+1228,Tandem Bank,7500.0,1
+1229,Technology CU,107745.0,1
+1230,Tejas Bank,45390.40666666667,33
+1231,Tennessee State Bank,90344.04,1
+1232,Territorial Bank of American Samoa,14345.483333333332,3
+1233,TexStar National Bank,42924.79838709677,248
+1234,"Texan Bank, National Association",32232.46406570842,487
+1235,"Texana Bank, National Association",34207.792207792205,77
+1236,"Texas Advantage Community Bank, National Association",35804.91803278688,244
+1237,Texas Associations of Professionals FCU,41026.29400000001,5
+1238,Texas Bank,32102.868794788286,921
+1239,Texas Bank Financial,34301.48706896552,58
+1240,Texas Bank and Trust Company,42307.63459981598,1087
+1241,Texas Brand Bank,37041.31764705882,425
+1242,"Texas Capital Bank, National Association",53706.84035156242,768
+1243,Texas Champion Bank,34473.728831460656,445
+1244,"Texas Citizens Bank, National Association",56230.98591549296,355
+1245,Texas Community Bank,39787.9,580
+1246,Texas Dow Empl CU,24821.988691437804,619
+1247,Texas Financial Bank,26325.640333333326,30
+1248,Texas First Bank,38107.714232765014,1349
+1249,"Texas Gulf Bank, National Association",49734.048257372655,373
+1250,Texas Heritage Bank,38435.0077131783,258
+1251,Texas Heritage National Bank,34258.089655172414,145
+1252,Texas Hill Country Bank,32289.10071942446,417
+1253,Texas National Bank,29109.199435783226,1347
+1254,Texas National Bank of Jacksonville,30196.204886363634,352
+1255,Texas Regional Bank,34993.6697626419,969
+1256,"Texas Republic Bank, National Association",45407.89309210526,152
+1257,Texas Security Bank,54592.4747826087,575
+1258,Texas State Bank,32715.08810572687,227
+1259,Texas Trust CU,29339.41791366906,139
+1260,Texell CU,11383.175,40
+1261,Texico State Bank,34983.6,5
+1262,Texoma Community CU,21249.120281690142,71
+1263,The Adirondack Trust Company,36800.0,2
+1264,The American National Bank of Mount Pleasant,32171.889565217385,92
+1265,The American National Bank of Texas,42986.40410958904,2190
+1266,The Bancorp Bank,50165.93406593407,91
+1267,The Bank,59871.75,4
+1268,"The Bank & Trust, SSB",33488.43504531717,331
+1269,The Bank National Association,36200.0,1
+1270,The Bank of Austin,38486.245398773004,163
+1271,The Bank of Beaver City,14600.0,3
+1272,The Bank of Burlington,24747.0,1
+1273,The Bank of Carbondale,20700.0,1
+1274,The Bank of Clovis,49959.035,2
+1275,The Bank of Fayette County,12174.625,2
+1276,The Bank of Fincastle,9125.0,1
+1277,The Bank of Kaukauna,47950.0,2
+1278,The Bank of Kremlin,49900.0,1
+1279,The Bank of Missouri,20460.0,5
+1280,The Bank of San Antonio,48904.45344129555,494
+1281,"The Bank of San Jacinto County, Coldsprings, Texas",28813.666666666668,18
+1282,The Bank of Tampa,136900.0,1
+1283,The Bank of the West,9850.0,2
+1284,The Bennington State Bank,78750.0,2
+1285,The Brady National Bank,24515.151515151516,33
+1286,The Brenham National Bank,35533.123076923075,195
+1287,The Bryn Mawr Trust Company,67900.0,1
+1288,The Buckholts State Bank,29097.982093023267,43
+1289,The Canandaigua National Bank and Trust Company,60100.0,2
+1290,The Cecilian Bank,69700.0,1
+1291,The Central Trust Bank,4800.0,1
+1292,The Citizens Bank,43560.0,5
+1293,The Citizens Bank of Clovis,24757.0,2
+1294,The Citizens Bank of Edmond,24395.313333333335,6
+1295,The Citizens National Bank of Hillsboro,32506.499029126207,103
+1296,The Citizens National Bank of Meridian,25900.0,2
+1297,The Citizens State Bank,23400.0,3
+1298,The Citizens State Bank of Ouray,11250.0,1
+1299,"The City National Bank and Trust Company of Lawton, Oklahoma",8266.666666666666,3
+1300,The City National Bank of Sulphur Springs,34223.546139954786,443
+1301,The City National Bank of Taylor,29180.76923076923,117
+1302,The Colorado Bank and Trust Company of La Junta,16381.0,1
+1303,The Commercial Bank,23317.64150943396,53
+1304,The Commercial National Bank of Brady,26321.352,125
+1305,The Community Bank,16800.0,6
+1306,The Community State Bank,20800.0,1
+1307,The Converse County Bank,43450.0,3
+1308,The Denison State Bank,12152.5,2
+1309,The Dolores State Bank,1166.67,1
+1310,The Donley County State Bank,6382.888888888889,9
+1311,The Eastern Colorado Bank,88427.0,1
+1312,The Education CU,9262.0,9
+1313,The Exchange Bank,55861.0,2
+1314,The Falls City National Bank,30583.908496732027,153
+1315,The Farmers & Merchants Bank,55256.0,6
+1316,The Farmers National Bank of Canfield,98450.0,2
+1317,The Farmers State Bank,5847.89,1
+1318,"The Farmers State Bank of Oakley, Kansas",38240.0,5
+1319,The First Bank and Trust Company,38600.0,3
+1320,The First Bank of Celeste,32047.647058823528,34
+1321,The First Liberty National Bank,35475.547941176446,238
+1322,The First National Bank & Trust,25750.0,2
+1323,"The First National Bank and Trust Co, Chickasha, Oklahoma",46200.0,4
+1324,The First National Bank and Trust Company,32363.635,2
+1325,The First National Bank and Trust Company of Broken Arrow,60900.0,1
+1326,The First National Bank and Trust Company of Miami,55333.333333333336,3
+1327,The First National Bank at Paris,22779.9475,4
+1328,The First National Bank in Creston,33566.666666666664,3
+1329,The First National Bank in Falfurrias,30512.955555555556,45
+1330,The First National Bank of Allendale,1357.0,1
+1331,The First National Bank of Aspermont,19395.166666666668,42
+1332,The First National Bank of Ballinger,35781.662808219175,146
+1333,The First National Bank of Bastrop,38730.333333333336,225
+1334,The First National Bank of Bellville,33280.13315436241,149
+1335,The First National Bank of Carmi,44300.0,1
+1336,The First National Bank of Eagle Lake,37148.224137931036,58
+1337,The First National Bank of Eldorado,23987.14285714286,56
+1338,The First National Bank of Evant,35631.6001724138,58
+1339,The First National Bank of Floydada,24329.8031,100
+1340,The First National Bank of Gilmer,22627.24311688312,77
+1341,The First National Bank of Granbury,32704.218281250003,128
+1342,The First National Bank of Hebbronville,23666.81888888889,18
+1343,The First National Bank of Hughes Springs,27179.663174603174,315
+1344,The First National Bank of Hutchinson,1100.0,1
+1345,The First National Bank of Kemp,28290.781111111115,45
+1346,The First National Bank of Las Animas,34082.72,2
+1347,The First National Bank of Livingston,38261.96036363636,220
+1348,The First National Bank of Long Island,50414.0,1
+1349,The First National Bank of McGregor d/b/a TFNB Your Bank for Life,39987.54098360656,305
+1350,The First National Bank of Mertzon,31275.58823529412,85
+1351,The First National Bank of Moody,40214.07812500001,16
+1352,The First National Bank of Ottawa,42100.0,1
+1353,The First National Bank of Quitaque,19078.563896103893,77
+1354,The First National Bank of Shiner,32489.285714285714,84
+1355,The First National Bank of Sonora,35627.270142180096,211
+1356,The First National Bank of Spearville,20050.0,2
+1357,The First National Bank of Sterling City,26282.29508196721,61
+1358,The First National Bank of Tom Bean,44626.85833333333,60
+1359,The First National Bank of Waseca,16685.0,1
+1360,The First State Bank,32260.27904065041,615
+1361,The First State Bank of Shelby,20832.0,1
+1362,"The First, A National Banking Association",61103.631666666675,6
+1363,The Fountain Trust Company,22200.0,2
+1364,The Freedom Bank of Virginia,37794.0,1
+1365,The Gorham State Bank,30952.92,1
+1366,The Granger National Bank,21697.345555555556,9
+1367,The Greenwood's State Bank,12080.0,2
+1368,The Harbor Bank of Maryland,14650.0,3
+1369,The Harrison County Bank,11800.0,1
+1370,The Hershey State Bank,47192.22,1
+1371,The HomeTown Bank of Alabama,90947.0,1
+1372,The Hondo National Bank,21584.118000000002,45
+1373,The Huntington National Bank,53593.583333333336,12
+1374,The Idabel National Bank,31127.5,1
+1375,The Jacksboro National Bank,29876.56614035087,57
+1376,The Jefferson Bank,64206.0975,4
+1377,The Karnes County National Bank,27783.016555555558,90
+1378,The Lamesa National Bank,30214.880341880344,117
+1379,The Liberty National Bank in Paris,37543.65042372881,118
+1380,The MINT National Bank,35440.59675182482,274
+1381,The Malvern National Bank,6923.0,1
+1382,"The Mercantile Bank of Louisiana, Missouri",22344.666666666668,3
+1383,The Missouri Bank,51536.6,1
+1384,The Morris County National Bank of Naples,20360.840441176464,68
+1385,The National Bank of Andrews,40245.77390625007,128
+1386,The National Bank of Texas at Fort Worth,38627.9552,25
+1387,The Nodaway Valley Bank,86033.33333333333,3
+1388,The Northern Trust Company,38763.67857142857,84
+1389,The Northwestern Bank,3037.7,1
+1390,The Park National Bank,83887.05,2
+1391,The Pauls Valley National Bank,26598.534999999996,10
+1392,The Payne County Bank,13020.82,2
+1393,The Pecos County State Bank,35717.153284671534,137
+1394,The Peoples Bank,13969.775,6
+1395,The Peoples Bank & Trust Company of Pointe Coupee Parish,19336.785,2
+1396,The Perryton National Bank,31585.653375,80
+1397,The Piedmont Bank,68725.0,4
+1398,The Pueblo Bank and Trust Company,11445.82,1
+1399,"The Riley State Bank of Riley, Kansas",4930.4,1
+1400,The Roscoe State Bank,27440.54613207546,106
+1401,The Salyersville National Bank,30801.19888888889,9
+1402,The Security National Bank of Enid,68318.24,2
+1403,"The Security National Bank of Sioux City, Iowa",4875.0,1
+1404,The Security State Bank,33763.31604166667,48
+1405,The State Bank,28031.0,2
+1406,The State Exchange Bank,14228.57142857143,7
+1407,The State National Bank of Big Spring,41608.825,120
+1408,The State National Bank of Groom,41743.90818181818,22
+1409,The Stock Exchange Bank,53900.0,1
+1410,The Union Bank Company,8400.0,1
+1411,The Union Bank of Mena,98635.0,1
+1412,The Union State Bank of Everest,26400.0,1
+1413,The Valley State Bank,59881.0,2
+1414,The Waggoner National Bank of Vernon,23823.875035971218,139
+1415,The Walton State Bank,3095.0,1
+1416,The Western State Bank,56053.666666666664,3
+1417,The Yoakum National Bank,30199.154600000005,50
+1418,Third Coast Bank SSB,46080.3758184199,2291
+1419,Thomasville National Bank,49125.0,2
+1420,Thrivent FCU,21229.391304347828,23
+1421,Timberline Bank,69900.0,2
+1422,"Titan Bank, National Association",52897.18465116279,43
+1423,Today's Bank,123366.0,1
+1424,Together CU,13474.333333333334,6
+1425,Touchmark National Bank,69517.39130434782,23
+1426,Town Center Bank,30795.582000000002,10
+1427,Towne Bank,21500.0,2
+1428,TrailWest Bank,2500.0,1
+1429,"TransPecos Banks, SSB.",29148.286486486486,555
+1430,"Transportation Alliance Bank, Inc. d/b/a TAB Bank, Inc.",40520.84210526316,114
+1431,Tri City National Bank,8113.0,2
+1432,Tri Counties Bank,60375.0,4
+1433,Triad Business Bank,8125.0,1
+1434,"Trinity Bank, National Association",48540.22346368715,179
+1435,Triumph Bank,42400.0,7
+1436,TruFund Financial Services Inc,12661.351630434787,92
+1437,True Sky CU,18918.0,5
+1438,Truist Bank d/b/a Branch Banking & Trust Co,44239.44470712775,1417
+1439,Truity FCU,17286.727272727272,11
+1440,"TrustTexas Bank, S.S.B.",30642.941355932206,59
+1441,Trustmark National Bank,42346.27508561642,584
+1442,Truxton Trust Company,61181.746666666666,3
+1443,Tulsa FCU,39658.19,3
+1444,U.P. State CU,2455.0,1
+1445,"U.S. Bank, National Association",37555.76155487805,328
+1446,U.S. Century Bank,13677.0,1
+1447,UBank,39556.22571428571,98
+1448,"UMB Bank, National Association",42869.208333333336,156
+1449,US Eagle FCU,35091.666666666664,6
+1450,US Metro Bank,41296.153846153844,26
+1451,USF FCU,8122.0,1
+1452,Umpqua Bank,39500.0,19
+1453,UniBank,63314.75,2
+1454,UniWyo FCU,44000.0,1
+1455,Unico Bank,80992.0,1
+1456,Unify Financial FCU,48143.333333333336,6
+1457,Union Bank & Trust Company,16779.0,1
+1458,Union Bank and Trust Company,44340.36842105263,19
+1459,Union Savings Bank,47000.0,1
+1460,United Bank,32568.5,12
+1461,United Bank & Trust,47700.0,2
+1462,United Bank of El Paso del Norte,50096.95121951219,328
+1463,United Community Bank,50692.619680851065,94
+1464,United FCU,58810.0,1
+1465,"United Fidelity Bank, FSB",22183.0,1
+1466,"United Midwest Savings Bank, National Association",30094.04029850746,67
+1467,United Texas Bank,39674.52794117648,34
+1468,United Texas CU,38438.0795,40
+1469,Unity National Bank of Houston,22801.470588235294,272
+1470,University FCU,22925.357997977757,989
+1471,Utah Community FCU,10365.0,1
+1472,Utah First FCU,30125.0,3
+1473,VISIONBank,25900.0,1
+1474,Valley Bank of Commerce,33686.365,6
+1475,Valley National Bank,31616.85714285714,7
+1476,Valley Republic Bank,15000.0,1
+1477,Valliance Bank,35287.89592760181,221
+1478,Valor Bank,25300.0,2
+1479,ValueBank Texas,37673.0,109
+1480,Vantage Bank Texas,51410.63416536662,641
+1481,"Vast Bank, National Association",26169.316923076924,13
+1482,Velocity CU,23258.688115942026,138
+1483,"VelocitySBA, LLC",53566.666666666664,6
+1484,"VeraBank, National Association",35988.21938398357,1461
+1485,Veritex Community Bank,46811.82830423937,1604
+1486,Vibrant CU,46696.875,16
+1487,"Village Bank and Trust, National Association",42057.882352941175,17
+1488,Vinings Bank,41612.5,8
+1489,Virginia National Bank,26400.0,1
+1490,"Vision Bank, National Association",28386.125,20
+1491,Vision One CU,72353.954,5
+1492,VisionBank,20800.0,1
+1493,Visions FCU,1638.0,1
+1494,Vista Bank,32383.947321867323,1628
+1495,Volunteer State Bank,56533.335,2
+1496,VyStar CU,9613.333333333334,3
+1497,Wallis Bank,35132.026924989645,2413
+1498,Walters Bank and Trust Company,10400.0,1
+1499,Wasatch Peaks FCU,10895.0,2
+1500,Washington County Bank,122600.0,1
+1501,"Washington Federal Bank, National Association",28182.913672727285,275
+1502,Washington Savings Bank,20833.0,1
+1503,Washington State Empl CU,1603.0,1
+1504,Washington Trust Bank,32615.75,4
+1505,"WaterStone Bank, SSB",20832.0,1
+1506,"Waterford Bank, National Association",30900.0,1
+1507,Waterman State Bank,112236.0,1
+1508,Watermark Bank,44585.71428571428,7
+1509,Waukon State Bank,20833.32,1
+1510,Waypoint Bank,14850.0,2
+1511,WebBank,20707.33487709298,5614
+1512,"Webster Bank, National Association",31693.5,2
+1513,Wellington State Bank,24386.88779661016,177
+1514,"Wells Fargo Bank, National Association",26492.54755683303,15308
+1515,West Gate Bank,22100.0,2
+1516,West Michigan Community Bank,9600.0,1
+1517,West Suburban Bank,140926.0,1
+1518,West Texas National Bank,41253.50869565218,276
+1519,West Texas State Bank,22010.541296296295,54
+1520,West Town Bank & Trust,50187.34625,8
+1521,WestStar Bank,44883.42622293504,1247
+1522,Westamerica Bank,29858.0,1
+1523,Western Alliance Bank,59021.09090909091,11
+1524,Western Bank,38489.68417721519,79
+1525,Western Bank of Clovis,55571.42857142857,7
+1526,"Western Bank, Artesia, New Mexico",40434.5,2
+1527,Western Commerce Bank,21084.10447761194,67
+1528,Western Heritage Bank,55123.08112820513,195
+1529,Western State Bank,93500.0,4
+1530,Western States Bank,61983.925,2
+1531,Western Union Company,38400.0,1
+1532,"Westfield Bank, FSB",42672.0,1
+1533,Westside State Bank,16880.325,4
+1534,"Wilmington Savings Fund Society, FSB",33790.375,2
+1535,Wilson Bank & Trust,4100.0,1
+1536,Winnsboro State Bank & Trust Co.,7531.0,2
+1537,"Wintrust Bank, National Association",85800.5,2
+1538,Wood & Huston Bank,34096.488,15
+1539,Woodforest National Bank,31331.876923076925,2340
+1540,Woori America Bank,30949.275862068964,29
+1541,"World Trade Finance,  Inc.",43857.0,1
+1542,Worthington National Bank,54270.88353413655,249
+1543,Wright Patt CU Inc,14146.666666666666,3
+1544,Wyoming Community Bank,64950.0,2
+1545,Xceed Financial FCU,17297.5,4
+1546,Yampa Valley Bank,19281.0,2
+1547,Yantis FCU,31688.0,6
+1548,"Yosemite Farm Credit, Aca",117552.0,1
+1549,"Zions Bank, A Division of",35629.84026522001,6635
+1550,b1Bank,40511.58262626262,198
+1551,cPort CU,7703.12,1
+1552,iTHINK Financial CU,9870.0,5
+1553,"immito, LLC",31528.571428571428,7
+1554,mBank,8900.0,2
